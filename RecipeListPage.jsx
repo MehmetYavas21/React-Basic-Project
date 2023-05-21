@@ -8,3 +8,9 @@ export const RecipeListPage = () => {
     </Center>
   );
 };
+
+// check this function
+data.hits.forEach((item) => {
+    console.log(item.recipe.label + " -- " +  item.recipe.dietLabels[0] + " -- " + item.recipe.cautions[0]) 
+})
+

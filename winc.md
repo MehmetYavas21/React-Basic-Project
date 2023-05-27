@@ -71,7 +71,8 @@ Here is a preview of what the app can look like and what features we would like 
    Each item shows the following health labels (if present):
     1. Vegan 
     2. Vegetarian
-**NOTE:** As the API does not provide ID’s for the recipes, you can use names/labels as keys in the list items.
+
+- **NOTE:** As the API does not provide ID’s for the recipes, you can use names/labels as keys in the list items.
 
 - Built a search function that filters based on the name and/or health labels (vegan/vegetarian/pescetarian/gluten-free/sesame-free/etc.).
 

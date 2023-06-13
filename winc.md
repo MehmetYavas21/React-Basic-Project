@@ -180,6 +180,12 @@ This is not mandatory, but if you would like some extra practice, you can implem
 
 - Users can filter on vegan/vegetarian/pescetarian
 
+## Grow
+
+Great job! You have now built a basic React app that works with a given dataset. Normally, most apps communicate directly with an API instead of working with an offline dataset. 
+
+In the next module, you will learn how to connect your app with an API and also learn more about advanced React concepts such as routing. In the routing lesson, you will also learn about how to navigate and link between pages so that you can, for example, click on a recipe and be redirected to a recipe page instead of hiding/displaying a component.
+
 
 
 
